@@ -13,7 +13,7 @@ sendo redigido pelas seguintes autoras/es:
 - Profª Dra. Sandra Pinheiro  e 
 - Msc. Engenharia Industrial Robson Wilson Silva Pessoa. 
  
- ## Ebook de Práticas Investigativas 
+## Ebook de Práticas Investigativas 
 
 O ebook de Práticas Investigativas está disponível online em formato
 <a href="https://github.com/cienciadedadosnaep/ebook_praticas_investigativas/blob/main/praticas_investigativas.pdf" title="Livros" target="_blank">pdf</a>
