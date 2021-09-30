@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+<i class="fa fa-renren fa-5x"></i>
 
-You can use the [editor on GitHub](https://github.com/cienciadedadosnaep/cienciadedadosnaep.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Ebook de Ciência de Dados
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Este ebook de Ciência de Dados está disponível no formato   
+<a href="https://bookdown.org/cienciadedadosnaep/ciencia_de_dados/" title="Livros" target="_blank">online</a> 
+sendo redigido pelas seguintes autoras/es:
 
-### Markdown
+- Profª Dra. Karla Patrícia de Oliveira Esquerre,
+- Grad. em Engenharia Química Janaina Souza de Souza, 
+- Msc. Engenharia Industrial Júlia Carolina Bijos, 
+- Grad. em Engenharia de Controle e Automação  Kaike Wesley Reis,  
+- Profª Dra. Sandra Pinheiro  e 
+- Msc. Engenharia Industrial Robson Wilson Silva Pessoa. 
+ 
+## Ebook de Práticas Investigativas 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+O ebook de Práticas Investigativas está disponível online em formato
+<a href="https://github.com/cienciadedadosnaep/ebook_praticas_investigativas/blob/main/praticas_investigativas.pdf" title="Livros" target="_blank">pdf</a>
+sendo redigido pelas seguintes autoras/es:
 
-```markdown
-Syntax highlighted code block
+  - profª Dra. Karla Patrícia Oliveira Esquerre, 
+  - Arquiteta e profª Roseline Vanessa Oliveira Machado, 
+  - Msc. Engª Rejane de Almeida Santana dos Santos, 
+  - Msc. e profº de ciências Luis Henrique Góis, 
+  - profª Dra. Silvia Camargo Fernandes Miranda.
 
-# Header 1
-## Header 2
-### Header 3
+## Ebook de Protagonismo Social 
 
-- Bulleted
-- List
+O ebook de Protagonismo Social  está disponível em capítulos online em 
+<a href="https://github.com/cienciadedadosnaep/ebook_protagonismos" title="Livros" target="_blank">pdf</a>
+sendo redigido pelas seguintes autoras:
 
-1. Numbered
-2. List
+- Psicopedagoga Daniele dos Santos Lima,
+- Psicóloga Talita Costa, 
+- Graduanda em Engª Química Ana Carolina Costa
+- profª Karla Patrícia Oliveira Esquerre,
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cienciadedadosnaep/cienciadedadosnaep.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+no contexto do projeto Ciência de Dados na Educação Pública. 
