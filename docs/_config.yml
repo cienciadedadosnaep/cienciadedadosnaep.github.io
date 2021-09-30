@@ -1,6 +1,6 @@
-title: Ciência de Dados
+title: Livros
 logo: /assets/img/logo.png
-description: Livros do projeto.
+description: 
 show_downloads: false
-google_analytics:
+google_analytics: false
 theme: jekyll-theme-minimal
